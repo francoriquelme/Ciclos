@@ -12,4 +12,3 @@ num.times do |i|
     print "#{i*2} "
 end
 
-
